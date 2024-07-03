@@ -1,29 +1,26 @@
-import { useState } from 'react'
-import './App.css'
+import React from 'react';
+import UseStateExample from './UseStateExample';
+import UseEffectExample from './UseEffectExample';
+import UseContextExample from './UseContextExample';
+import UseReducerExample from './UseReducerExample';
+import UseRefExample from './UseRefExample';
+import './App.css';
 
 function App() {
-
-  const [counter, setCounter] = useState('')
-
-  const addValue = () => {
-    console.log("Clicked")
-    setCounter(counter +1);
-    console.log(counter)
-  }
-
-  const removeValue = () => {
-    setCounter(counter -1);
-    console.log(counter)
-  }
   return (
-    <>
-      <h1>Counter Project</h1>
-      <h3>Counter value: {counter}</h3>
-      <button onClick={addValue}>Add Value</button>
-      <br />
-      <button onClick={removeValue}>Remove Value</button>
-    </>
-  )
+    <div className="App">
+      <div className="example-container">
+        <header className="App-header">
+          <h1>React Hooks Examples</h1>
+        </header>
+        <UseStateExample className="bg1" />
+        <UseEffectExample className="bg2" />
+        <UseContextExample className="bg3" />
+        <UseReducerExample className="bg4" />
+        <UseRefExample className="bg5" />
+      </div>
+    </div>
+  );
 }
 
-export default App
+export default App;
