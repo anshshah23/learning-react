@@ -5,7 +5,7 @@ Learning React can be a rewarding journey! Here's a roadmap to guide you through
 ## Beginner Level:
 
 1. **HTML/CSS/JavaScript Fundamentals:**
-   - Ensure a solid grasp of these foundational web technologies.
+   - Ensure a solid grasp of these foundational web technologies. We shall be assuming you already know the basics in order to understand the core topics and make the process💻 easier!
 
 2. **Understanding ES6+:**
    - Learn modern JavaScript features used in React, like arrow functions, classes, destructuring, etc.
