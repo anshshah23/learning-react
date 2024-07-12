@@ -4,23 +4,23 @@ Learning React can be a rewarding journey! Here's a roadmap to guide you through
 
 ## Beginner Level:
 
-1. **HTML/CSS/JavaScript Fundamentals:**
+1. **HTML/CSS/JavaScript Fundamentals:** ✅ 
    - Ensure a solid grasp of these foundational web technologies. We shall be assuming you already know the basics in order to understand the core topics and make the process💻 easier!
 
-2. **Understanding ES6+:**
+2. **Understanding ES6+:** ✅ 
    - Learn modern JavaScript features used in React, like arrow functions, classes, destructuring, etc.
 
-3. **Getting Started with React:**
+3. **Getting Started with React:** ✅ 
    - **Create React App:** Set up your development environment.
    - **JSX:** Understand JSX syntax used in React components.
    - **Components:** Learn to create functional and class components.
    - **Props:** Pass data to components.
 
-4. **State Management:**
+4. **State Management:** ✅ 
    - **State Hook (useState):** Manage local component state.
    - **Lifecycle Methods (useEffect):** Handle side effects in functional components.
 
-5. **Handling Forms:**
+5. **Handling Forms:** ✅ 
    - Learn how to manage form input and handle form submissions in React.
 
 6. **React Router:**
