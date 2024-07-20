@@ -23,7 +23,7 @@ Learning React can be a rewarding journey! Here's a roadmap to guide you through
 5. **Handling Forms:** ✅ 
    - Learn how to manage form input and handle form submissions in React.
 
-6. **React Router:**
+6. **React Router:** (In Progress)
    - Implement client-side routing to navigate between different views in your single-page application.
 
 ## Intermediate Level:
