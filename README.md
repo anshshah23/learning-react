@@ -1,6 +1,6 @@
 # Roadmap to Learning React
 
-Learning React can be a rewarding journey! Here's a roadmap to guide you through:
+Learning React can be a rewarding journey, are you excited to start learning React?! Here's a roadmap to guide you through:
 
 ## Beginner Level:
 
