@@ -31,7 +31,7 @@ This project provides a basic setup for a React application with routing and res
 1. **Clone the repository** to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/react-routing-template.git
+   git clone https://github.com/yourusername/react-routing-example.git
    ```
 
 2. **Navigate to the project directory**:
