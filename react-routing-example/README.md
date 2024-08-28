@@ -66,7 +66,7 @@ This project provides a basic setup for a React application with routing and res
 Here's an overview of the project's structure:
 
 ```plaintext
-react-routing-template/
+react-routing-example/
 ├── public/
 ├── src/
 │   ├── components/
