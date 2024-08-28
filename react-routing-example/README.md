@@ -37,7 +37,7 @@ This project provides a basic setup for a React application with routing and res
 2. **Navigate to the project directory**:
 
    ```bash
-   cd react-routing-template
+   cd react-routing-example
    ```
 
 3. **Install the dependencies**:
